@@ -1,5 +1,5 @@
 // Generated using `moon info`, DON'T EDIT IT
-package "moonbitstack/mooninfer/lib"
+package "moonbitstack/mooninfer"
 
 // Values
 pub fn greet(StringView) -> String

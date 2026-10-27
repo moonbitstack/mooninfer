@@ -11,3 +11,5 @@ license = "Apache-2.0"
 keywords = [ "inference", "llm", "model", "server", "moonbit" ]
 
 description = "mooninfer — run a model in MoonBit: weights, KV cache, sampling, and a server to put it behind."
+
+source = "src"
