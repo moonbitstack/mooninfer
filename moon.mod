@@ -8,7 +8,23 @@ repository = "https://github.com/moonbitstack/mooninfer"
 
 license = "Apache-2.0"
 
-keywords = [ "inference", "llm", "model", "server", "moonbit" ]
+keywords = [
+  "inference",
+  "inference-engine",
+  "llm",
+  "model-serving",
+  "serving",
+  "server",
+  "kv-cache",
+  "sampling",
+  "transformer",
+  "text-generation",
+  "gguf",
+  "llama",
+  "ai",
+  "model",
+  "moonbit",
+]
 
 description = "Model inference for MoonBit: weights, KV cache, sampling and serving."
 
